@@ -41,7 +41,7 @@ public class Question {
         return option2;
     }
 
-    public void setOption2(String option1){
+    public void setOption2(String option2){
         this.option3 = option2;
     }
 
@@ -49,16 +49,16 @@ public class Question {
         return option3;
     }
 
-    public void setOption3(String option1){
+    public void setOption3(String option3){
         this.option3 = option3;
     }
 
 
-    public String getOption1(){
+    public String getOption4(){
         return option4;
     }
 
-    public void setOption4(String option1){
+    public void setOption4(String option4){
         this.option4 = option4;
     }
 
